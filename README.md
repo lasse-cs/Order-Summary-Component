@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo URL](https://github.com/lasse-cs/Order-Summary-Component/)
+- Live Site URL: [Live Site URL](https://lasse-cs.github.io/Order-Summary-Component/)
 
 ## My process
 
